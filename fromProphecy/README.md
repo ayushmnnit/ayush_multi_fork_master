@@ -1,3 +1,3 @@
-# test_External_git__internal
+# test_External_git_multi__internal
 
-test_External_git__internal repository
+test_External_git_multi__internal repository
