@@ -1,0 +1,3 @@
+# test_External_git__internal
+
+test_External_git__internal repository
