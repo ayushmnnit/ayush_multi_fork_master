@@ -1,3 +1,3 @@
-# test_External_git_multi__internal
+# Multi_Fork_External__external
 
-test_External_git_multi__internal repository
+Multi_Fork_External__external repository
