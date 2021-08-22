@@ -63,6 +63,7 @@
       },
       "Script3" : {
         "component" : "Script",
+        "group" : null,
         "properties" : {
           "interim" : false,
           "cache" : false,
@@ -71,8 +72,8 @@
         },
         "metadata" : {
           "label" : "Script3",
-          "x" : 410,
-          "y" : 50
+          "x" : 891,
+          "y" : 288
         },
         "ports" : {
           "inputs" : [ ],
@@ -85,7 +86,7 @@
     "groups" : [ ],
     "locked" : false,
     "metainfo" : {
-      "lastUpdated" : 1629653833582,
+      "lastUpdated" : 1629654313579,
       "id" : "test11",
       "memory" : 1,
       "imported" : true,
